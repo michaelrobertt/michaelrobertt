@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=500&height=80&lines=Oi!+I'm+Michael+Robert;Welcome+to+my+portfolio" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=0099FF&size=30&center=true&vCenter=true&width=500&height=100&lines=Hi!+I'm+Michael+Robert;Welcome+to+my+portfolio" alt="Typing SVG">
 </p>
 Bem vindo ao meu perfil!. Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas. Recentemente finalizei o curso Desenvolvimento Web Full Stack na Trybe. Estou em busca da minha primeira oportunidade como Desenvolvedor Web.
 </p>
