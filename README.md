@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Robert</h1>
 <h3 align="center">I am a full stack developer with a complete education in Trybe's Web Development Course, where I learned the latest technologies and methodologies used in the industry.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelrobertt" alt="michaelrobertt" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [michaelrobertt.github.io](michaelrobertt.github.io)
 
 - 💬 Ask me about **anything you want.**
