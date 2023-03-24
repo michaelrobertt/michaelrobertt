@@ -1,4 +1,4 @@
-<img align="center" src="[https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&color=4db5ff&width=1109&height=113&lines=%7B+Hey%2C+me+chamo+Nataniel!%E2%9D%A4%EF%B8%8F+%7D;%7B+Bem+vindo(a)+ao+meu+perfil+:D+%7D;%7B+dá+uma+olhada+no+meu+portfólio%E2%9D%A4%EF%B8%8F+%7D](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Michael+Robert;Take+a+look+in+my+repository!)">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Michael+Robert)](https://git.io/typing-svg">
 <p>
 Bem vindo ao meu perfil!. Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas. Recentemente finalizei o curso Desenvolvimento Web Full Stack na Trybe. Estou em busca da minha primeira oportunidade como Desenvolvedor Web.
 </p>
