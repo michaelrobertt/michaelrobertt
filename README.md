@@ -1,5 +1,6 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Michael+Robert)](https://git.io/typing-svg">
-<p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=500&height=80&lines=Oi!+I'm+Michael+Robert;Welcome+to+my+portfolio" alt="Typing SVG"/>
+</p>
 Bem vindo ao meu perfil!. Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas. Recentemente finalizei o curso Desenvolvimento Web Full Stack na Trybe. Estou em busca da minha primeira oportunidade como Desenvolvedor Web.
 </p>
 <h2>Meu <a href="https://michaelrobertt.github.io/" target="_blank"><i>Portfólio</i></a>!</h2>
