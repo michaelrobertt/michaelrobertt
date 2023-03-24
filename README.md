@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0099FF&size=30&center=true&vCenter=true&width=500&height=100&lines=Hi!+I'm+Michael+Robert;Welcome+to+my+portfolio" alt="Typing SVG">
 </p>
-Bem vindo ao meu perfil!. Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas. Recentemente finalizei o curso Desenvolvimento Web Full Stack na Trybe. Estou em busca da minha primeira oportunidade como Desenvolvedor Web.
+Bem vindo ao meu perfil! Sempre fui fascinado por tecnologia e no seu poder de gerar inovação e oportunidade na vida das pessoas. Recentemente finalizei o curso Desenvolvimento Web Full Stack na Trybe. Estou em busca da minha primeira oportunidade como Desenvolvedor Web.
 </p>
 <h2>Meu <a href="https://michaelrobertt.github.io/" target="_blank"><i>Portfólio</i></a>!</h2>
 <br/>
