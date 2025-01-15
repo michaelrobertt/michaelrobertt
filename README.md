@@ -6,7 +6,6 @@ Bem vindo ao meu perfil! Sempre fui fascinado por tecnologia e no seu poder de g
 <h2>Meu <a href="https://michaelrobertt.github.io/" target="_blank"><i>Portfólio</i></a>!</h2>
 <br/>
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=michaelrobertt&title_color=4db5ff&icon_color=4db5ff&text_color=fff&bg_color=1f1f38&border_color=4db5ff&show_icons=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrobertt&layout=compact&langs_count=7&title_color=4db5ff&icon_color=4db5ff&text_color=fff&bg_color=1f1f38&border_color=4db5ff&show_icons=true"/>
 </div>
 
